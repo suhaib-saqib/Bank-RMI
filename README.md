@@ -12,15 +12,19 @@ This program uses RMI functionality as well as threads, inheritance, exception h
 ## Output:
 
 **Add Account With Existing Name**
+
 ![sample output](./Images/addaccountwithexistingname.JPG "Add Account With Existing Name")
 
 **RMI Server**
+
 ![sample output](./Images/RMIServer.JPG "RMI Server")
 
 **Search Account By Name**
+
 ![sample output](./Images/searchaccountbyname.JPG "Search Account By Name")
 
 **Delete An Existing Account**
+
 ![sample output](./Images/deleteanexistingaccount.JPG "Delete An Existing Account")
 
 Extra output screenshots available <a href="https://github.com/suhaib-saqib/Bank-RMI/tree/master/Images">here</a>.
