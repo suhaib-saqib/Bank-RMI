@@ -22,3 +22,5 @@ This program uses RMI functionality as well as threads, inheritance, exception h
 
 **Delete An Existing Account**
 ![sample output](./Images/deleteanexistingaccount.JPG "Delete An Existing Account")
+
+Extra output screenshots available <a href="https://github.com/suhaib-saqib/Bank-RMI/tree/master/Images">here</a>.
